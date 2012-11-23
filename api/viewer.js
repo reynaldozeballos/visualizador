@@ -403,6 +403,8 @@ function createTools(conf) {
         areaMeasureCtl
       ]);
     }
+
+    /* Incorporado por Reynaldo Zeballos  */
     var click_aqui, elemento, salida;
     elemento = docuement.getElementById('measure');
     salida = "<a href='ver.php?lt=-18&ln-68'>Para la descripci&oacute;n del lugar Click Aqui</a>";
