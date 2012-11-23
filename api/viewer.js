@@ -15,6 +15,7 @@
  * @author cperez@geo.gob.bo (Ariel Perez)
  * @author fvelasquez@geo.gob.bo (Rodolfo Velasquez)
  * @author slesage@geo.gob.bo (Sylvain Lesage)
+ * Modificaciones realilzadas por Reynaldo Zeballos
  */
 
 /**
